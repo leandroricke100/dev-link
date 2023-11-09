@@ -64,6 +64,3 @@ export function Login() {
     </div>
   );
 }
-function then(arg0: () => void) {
-  throw new Error("Function not implemented.");
-}
